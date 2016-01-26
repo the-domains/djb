@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8C8C8'
+    - '#000000'
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.5470552870908819
+  lightness: 0.5072268562192488
+  rhythmicContrast: 0.8659361983879014
+  saturation: 0.09186360786295389
+cta: {}
+layout_spectrum: 0.416666
+name: DjB
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.784909
